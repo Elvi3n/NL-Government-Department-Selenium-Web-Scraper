@@ -1,4 +1,4 @@
-# NL Government Department Web Scraper | Python & Selenium
+# GLOCAL NL Government Department Web Scraper | Python & Selenium
 
 This project is a Python automation script that uses Selenium to scrape department information from the Government of Newfoundland and Labrador website.
 
